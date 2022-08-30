@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jfr">
+    <CLASSES>
+      <root url="file://D:/javafx/runtime/jre/lib/jfr" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
